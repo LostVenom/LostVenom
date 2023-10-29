@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩</h1>
+<h1 align="center">Hi 👋 I'm 𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩</h1>
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b952urwjww849sjzp4bj7defp2oogtwnnzdhmyozmsu8&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
 
