@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Bots Development, Web Development, Web Designing, Logo Designing e.t.c**
 
-- 📫 How to reach me **Pirate303@gmail.com**
+- 📫 How to reach me **Pirate303team@gmail.com**
 
 - 📄 My Development Experiences will be available Here Soon. 
 
