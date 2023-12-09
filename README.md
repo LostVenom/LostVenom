@@ -17,7 +17,7 @@
 
 - 📄 My Development Experiences will be available Here Soon. 
 
-- ⚡ Fun fact **I am in love with my Tech stuffs since 2014.**
+- ⚡ Fun fact **I am in love with My Tech stuffs since 2014.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
