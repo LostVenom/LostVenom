@@ -55,6 +55,4 @@
 
 #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pirate303&show_icons=true&locale=en" alt="pirate303" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirate303&" alt="pirate303" /></p>
