@@ -54,7 +54,6 @@
 <code><img height="40" width="40" src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMi0yMy5wbmc.png"/></code>
 
 #
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirate303&" alt="pirate303" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pirate303&" alt="pirate303" /></p>
-
-![𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pirate303\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩](https://github-readme-stats.vercel.app/api/?username=pirate303\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
