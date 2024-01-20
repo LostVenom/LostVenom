@@ -56,6 +56,8 @@
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/625/558/png-transparent-bing-bing-logo-logo-search-engine-brand-logo-linux-logo-3d-icon-thumbnail.png"/></code>
 
 #
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrperfectxd" alt="mrperfectxd" /></a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirate303&" alt="pirate303" /></p>
 
 ![𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩](https://github-readme-stats.vercel.app/api/?username=pirate303\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
