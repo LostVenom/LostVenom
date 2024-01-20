@@ -37,7 +37,7 @@
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/linux.png"/></code>
 <code><img height="40" width="40" src="https://icon-library.com/images/heroku-icon/heroku-icon-27.jpg"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/git.png"/></code>
-<code><img height="40" width="40" src="https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon-thumbnail.png"/></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/unity.png"/></code>
 
 #
