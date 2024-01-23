@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b952urwjww849sjzp4bj7defp2oogtwnnzdhmyozmsu8&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate303&label=Profile%20views&color=0e75b6&style=flat" alt="pirate303" /> </p>
+![](https://visitcount.itsvg.in/api?id=pirate303&label=Profile%20Views&color=12&icon=0&pretty=true)
 
 - 🔭 I’m currently working on Bot Development Projects.
 
