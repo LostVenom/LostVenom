@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b952urwjww849sjzp4bj7defp2oogtwnnzdhmyozmsu8&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
 
-![](https://visitcount.itsvg.in/api?id=pirate303&label=Profile%20Views&color=12&icon=0&pretty=false)
-![](https://visitcount.itsvg.in/api?id=pirate303&label=Profile%20Views&color=12&icon=0&pretty=true)
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Current%20Viewers&edge_flat=false)
 
 - 🔭 I’m currently working on Bot Development Projects.
