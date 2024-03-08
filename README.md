@@ -9,7 +9,7 @@
 
 - 🌱 **Actively broadening my expertise in C++, Java, and DSS (Data Structures and Algorithms).**
 
-- 👨‍💻 **All my public projects are easily accessible here.**
+- 💻 **All my public projects are easily accessible here.**
 
 - 💬 **Feel free to inquire about Bot Development, Web Development, Web Designing, Logo Designing, and more.**
 
