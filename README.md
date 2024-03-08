@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ , Java , DSS.**
 
-- 👨‍💻 All my public projects are readily accessible here.
+- 👨‍💻 **All my public projects are readily accessible here.**
 
 - 💬 Ask me about **Bots Development, Web Development, Web Designing, Logo Designing e.t.c**
 
