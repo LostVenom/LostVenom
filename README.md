@@ -1,9 +1,9 @@
-<h1 align="center">𝐇𝐞𝐲 👋 𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩 𝐡𝐞𝐫𝐞.</h1>
+<h1 align="center">𝐇𝐞𝐲 👋 𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌 𝐡𝐞𝐫𝐞.</h1>
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b952urwjww849sjzp4bj7defp2oogtwnnzdhmyozmsu8&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Pirate%20Hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Lost%20Hits&edge_flat=false)
 
 - 🔭 I’m currently working on Bot Development Projects.
 
@@ -57,8 +57,8 @@
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/625/558/png-transparent-bing-bing-logo-logo-search-engine-brand-logo-linux-logo-3d-icon-thumbnail.png"/></code>
 
 #
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate303" alt="pirate303" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LostVenom" alt="LostVenom" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirate303&" alt="pirate303" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LostVenom&" alt="LostVenom" /></p>
 
-![𝐏𝐈𝐑𝚲𝐓𝜩 𝜩𝐎𝜩](https://github-readme-stats.vercel.app/api/?username=pirate303\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=LostVenom\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
