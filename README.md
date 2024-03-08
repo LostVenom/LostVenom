@@ -5,17 +5,17 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Lost%20Hits&edge_flat=false)
 
-- 🔭 **I am presently engaged in bot development projects.**
+- 🔭 **Currently immersed in bot development projects.**
 
-- 🌱  **I am currently expanding my knowledge in C++, Java, and DSS (Data Structures and Algorithms).**
+- 🌱 **Actively broadening my expertise in C++, Java, and DSS (Data Structures and Algorithms).**
 
-- 👨‍💻 **All my public projects are readily accessible here.**
+- 👨‍💻 **All my public projects are easily accessible here.**
 
-- 💬 Ask me about **Bots Development, Web Development, Web Designing, Logo Designing e.t.c**
+- 💬 **Feel free to inquire about Bot Development, Web Development, Web Designing, Logo Designing, and more.**
 
-- 📫 How to reach me **Pirate303team@gmail.com**
+- 📫 **Contact me at Pirate303team@gmail.com.**
 
-- 📄 My Development Experiences will be available Here Soon. 
+- 📄 **Stay tuned for updates on my Development Experiences.**
 
 - ⚡ Fun fact **I am in love with My Tech stuffs since 2014.**
 
