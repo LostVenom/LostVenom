@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Bot Development Projects.
 
-- 🌱 I’m currently learning **C++ , Java , DSS.**
+- 🌱  **I am currently expanding my knowledge in C++, Java, and DSS (Data Structures and Algorithms).**
 
 - 👨‍💻 **All my public projects are readily accessible here.**
 
