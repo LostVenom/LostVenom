@@ -59,8 +59,8 @@
 #
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LostVenom" alt="LostVenom" /></a> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LostVenom&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LostVenom&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=445&ring=0EE139&fire=0EE139&currStreakLabel=FFFFFF&sideNums=0EE139" alt="GitHub Streak" /></a> </p> 
 
-![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=LostVenom\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=LostVenom\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
 [![Lost Venom's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=LostVenom&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)](https://ghactivity.mrayush.me/)
