@@ -22,7 +22,7 @@
 #
   
 </p>
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomGithubGif.webp"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomGithub.webp"/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
