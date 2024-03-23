@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐞𝐲 👋 𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌 𝐡𝐞𝐫𝐞.</h1>
 <h3 align="center">A Passionate Developer & Engineering Student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b952urwjww849sjzp4bj7defp2oogtwnnzdhmyozmsu8&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://github.com/LostVenom/LostVenom/blob/main/LostVenomDS.gif">
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpirate303&count_bg=%23DDDDDD&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Lost%20Hits&edge_flat=false)
