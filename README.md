@@ -13,7 +13,7 @@
 
 - 💬 **Feel free to inquire about Bot Development, Web Development, Web Designing, Logo Designing, and more.**
 
-- 📫 **Contact me at Pirate303team@gmail.com.**
+- 📫 **Contact me [Here](www.linkedin.com/in/lostvenom).**
 
 - 📄 **Stay tuned for updates on my Development Experiences.**
 
