@@ -63,4 +63,4 @@
 
 ![𝐋Ⓞ𝐒⚚🕷𝐕𝚵𝗡Ⓞ𝐌](https://github-readme-stats.vercel.app/api/?username=LostVenom\&show_icons=true\&title_color=0EE139\&icon_color=0EE139\&text_color=9f9f9f\&bg_color=151515)
 
-[![Lost Venom's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=LostVenom&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)]
+![Lost Venom's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=LostVenom&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
