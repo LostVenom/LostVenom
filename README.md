@@ -7,7 +7,7 @@
 
 - 🔭 **Currently immersed in bot development projects.**
 
-- 🌱 **Actively broadening my expertise in C++ & DSS (Data Structures and Algorithms).**
+- 🌱 **Actively broadening my expertise in C++ & DSA (Data Structures and Algorithms).**
 
 - 💻 **All my public projects are easily accessible here.**
 
